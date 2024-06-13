@@ -1,14 +1,17 @@
-- 👋 Hi, I’m @FerminRamos
-- 🏫 Majoring in Computer Science (Minor in Statistics) @ the University of New Mexico
-- 👀 Specialized in backend programming & data analysis
-- 🌱 Currently studying - Python, Java, Scheme, Haskell, C, R
-- 📫 Contact: [email] ramosfer@unm.edu
-
+# Quick Contact Info
+* Fermin Ramos
+* ramosfer@unm.edu (preferred)
+* https://www.linkedin.com/in/fermin-ramos/
+* (505)515-8742
+---
+<br>
 
 ## Education
-    University of New Mexico (2019 – Present)
-        B.A. in Computer Science & Minor in Statistics
+    University of New Mexico (2019 – 2024)
+        B.A. in Computer Science with Minor in Statistics
 
+
+## Relevant Achievements
 | Relevant Achievements                                                   | Time Frame     |
 |:------------------------------------------------------------------------|:---------------|
 | School of Engineering Peer-Mentor                                       | 4x Semesters   |
@@ -18,38 +21,18 @@
 | Lobo Rainforest Hackathon 2023, Winner.                                 | 2023           |
 
 
-</br>
+## Experience
+| <b><u> Experience                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <b> Mentorship, Data Analysis <br> Central Intelligence Agency (CIA) <br> 02/2024 - 04/2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| <i> - Participated in a rigorous mentorship program with the CIA focused on strategic planning, intelligence analysis, and case briefings. <br> - Engaged in simulations that required quick decision-making, which developed my ability to stay composed and accurate under tight deadlines. <br> - Engaged in unique CIA briefing exercises, which enhanced my report-building and presentation skills in delivering precise and reliable information to decision-makers.                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| <b> Research Assistant, Data Analysis and ArcGIS Visualizations <br> University of New Mexico, College of Nursing <br> 12/2022 - 05/2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| <i> - Developed custom web-scraping Python programs to build and manage underlying datasets for a Geographic Information System (GIS), which helped universities and hospitals identify weak points in their disaster preparedness. <br> - Scaled the project’s dataset collection from 1 dataset to more than 400, including sources from the FBI, EPA, CCNE, NLN, Census, and FEMA, resulting in significantly more accurate statistical analysis and insights. <br> - Learned a wide array of data extraction techniques including APIs, web scraping with Selenium, and automated mouse movement interactions when necessary. <br> - Worked with an interdisciplinary team of professionals to aid in the development of a public graphical interface, which has enabled users across the United States to see a visualization of their community’s disaster vulnerability based on locational data. (https://arcg.is/0q4ey4) |
+| <b> Backend Programmer <br> EatWell Solutions <br> 12/2023 - 02/2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| <i> - Co-founded a mobile-based application based on winning entry in the 2023 Lobo Rainforest Hackathon, which bridges the gap between dieting and budget apps by using open-source recipe databases to curate weekly diet-friendly meal plans for users. <br> - Contributed to the development of the backend algorithm to integrate open-source recipe databases with Java. <br> - Integrated Java APIs of local grocery stores (Kroger, Albertson’s, Target) into the app to provide a cost-based and geolocation analysis of where groceries for meal plans could be purchased at the lowest price. <br> - App secured funding from outside investors.                                                                                                                                                                                                                                                                       |
+| <b> Backend Programmer <br> Food for Kids, Java and Apache POI <br> 09/2021                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| <i> - Programmed a Java automation script to write weekly meal plans on Microsoft Excel, that enabled a local daycare business to automate its menu planning based on their available groceries. <br> - Designed the program to handle dozens of input files, resulting in an application that provides three randomized nutritionally balanced meals for each day of a week for children and ensures that no child gets served the same meal twice in a row. <br> - Ensured system adhered to federal and New Mexico state guidelines for daily nutrition, enabling real-world use of the system. <br> - Updated and expanded the automation system for use at other independent daycare businesses in the Albuquerque area.                                                                                                                                                                                                     |
 
-## Work Experience
-    University of New Mexico, College of Nursing
-        Research Assistant: Data Analysis & Visualization (2022 – Present)
-* Played a crucial role in developing the underlying datasets to build a Geographic Information System (GIS) map to help Universities and Hospitals identify weak points in Disaster Preparedness within the United States, using existing government databases (CENSUS, FEMA) and other compiled data.
-* Developed a python program to create a database of all CCNE & NLN nursing accredited schools across the nation. Furthermore, I utilized Google’s Geocoding API to list the latitude and longitude of all CCNE or NLN accredited schools.
-* Published a research article with my collogues in the International Journal of Environmental Research & Public Health, titled “Healthcare Impacts Associated with Federally Declared Disasters—Hurricanes Gustave and Ike.” 
-
-
-</br>
-
-
-## Notable Projects
-```Food For Kids (Java + Apache POI)```
-
-* Designed and programmed a Java automation script for creating weekly nutritional menus on Microsoft Excel for a local business.
-* Program was designed to handle multiple input files containing dozens of food options. Program randomizes three meals for each day of the week, including beverages, snacks, proteins, grains, vegetables, and fruits. Final output written onto an MS Excel Spreadsheet (using Apache POI) with proper formatting and data. Program assures that no child gets served the same meal twice in a row. 
-* System adheres to state and federal guidelines for daily nutrition.
-* Automation system later updated and expanded for other surrounding independent daycare businesses in the Albuquerque area. 
-
-```Tour de France (C)```
-* Program organizes raw data from the final classification of Tour de France riders into various formatting files. Data can be sorted by team, country, or by classification. 
-* Program is designed to handle thousands of data entries with ease.
-
-```Book & Author (Java)```
-* Is a program designed to create, store, and manage hundreds of books, as if it was the backend system to a library. Program is also designed to handle minor errors, such as checking out more books than those available.
-* Program can recognize total copies in library, number of books checked out, print library status, add books (unique), add books (copies), check out books, check in books, as well as list books by title/author. 
-* Achieved proficiency utilizing constructors, methods, objects, and classes throughout the scope of this program
-
-```Um, the presentation tracker (Python)```
-* Utilizing Apple’s native speech recognition software, “Um, the presentation tracker” listens to a presenter’s speech in real time and auto-detects any flawed speech habits. Program defines “flawed speech habits” as being universally agreed upon “no-no’s” when presenting, such as using the word “um”. Gives a total count of how many errors a presenter made for each flawed speech habit word.
 
 
 <!---
