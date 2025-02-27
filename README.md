@@ -1,6 +1,6 @@
 # Quick Contact Info
 ### Fermin Ramos
-### ramosfer@unm.edu (preferred)
+### ramosfer645@gmail.com (preferred)
 ### https://www.linkedin.com/in/fermin-ramos/
 ### (505)589-5309
 
