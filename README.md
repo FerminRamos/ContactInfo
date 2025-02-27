@@ -1,5 +1,5 @@
 # Quick Contact Info
-### Fermin Ramos
+### Fermin Ramos (based in Aurora, IL)
 ### ramosfer645@gmail.com (preferred)
 ### https://www.linkedin.com/in/fermin-ramos/
 ### (505)589-5309
